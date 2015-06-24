@@ -1,7 +1,7 @@
 #include <LiquidCrystal.h>
 #include <Servo.h>
 Servo myservo;
-int incomingByte = 0;
+char incomingByte[] = "Hello";
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 void setup() {
         Serial.begin(9600);     
@@ -12,13 +12,14 @@ void setup() {
 void loop() {
 
         
-        if (Serial.available() > 0) {
+        if (Serial.available()) {
 
-                incomingByte = Serial.read();
-                myservo.write(incomingByte);
-                lcd.write(incomingByte);
-                Serial.println(incomingByte);
-                delay(500);
+               
+                myservo.write(Serial.read());
+                lcd.write(Serial.read());
+                Serial.println(Serial.read());
+                delay(1000);
+                //lcd.clear();
         }
 }
  
