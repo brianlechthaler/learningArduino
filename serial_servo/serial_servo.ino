@@ -17,8 +17,8 @@ void loop() {
                 incomingByte = Serial.read();
                 myservo.write(incomingByte);
                 lcd.write(incomingByte);
-                delay(1000);
-                lcd.clear();
+                Serial.println(incomingByte);
+                delay(500);
         }
 }
  
