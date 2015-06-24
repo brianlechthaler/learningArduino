@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\bin\Debug\serial servo app.exe.config
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\MainWindow.g.vb
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\Application.g.vb
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\serial servo app_MarkupCompile.cache
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\serial servo app.g.resources
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\serial_servo_app.Resources.resources
+C:\Users\student\Desktop\learningArduino\learningArduino\serial servo app\serial servo app\serial servo app\obj\Debug\serial servo app.vbproj.GenerateResource.Cache
